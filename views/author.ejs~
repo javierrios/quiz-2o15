@@ -1,0 +1,9 @@
+<div>
+  <div>
+    <img src="/images/alumno.jpg" width="64" height="64" />
+  </div>
+  <div>
+  	<h2>Javier Ríos</h2>
+  	<p>Estudiante interesado en aprender nodejs</p>
+  </div>
+</div>
